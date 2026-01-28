@@ -9,3 +9,4 @@ Key Insights:
 - Sales increase toward the end of the year indicating seasonal demand.
 - Central and South regions generate the highest sales.
 - Technology category delivers the highest profit.
+- This project focuses on KPI analysis, trend identification, and business performance reporting using sales data.
